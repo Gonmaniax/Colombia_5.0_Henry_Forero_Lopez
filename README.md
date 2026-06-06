@@ -1,16 +1,6 @@
 # Colombia_5.0_Henry_Forero_Lopez
 Taller del evento colombia 5.0
-# 🇨🇴 Colombia 5.0 — Sitio Web Informativo Bilingüe
-
 Sitio web informativo sobre el evento tecnológico **Colombia 5.0**, desarrollado como actividad académica del SENA · Centro de Manufactura en Textil y Cuero · Regional Distrito Capital.
-
----
-
-## 🌐 Ver el sitio
-
-> **[Ver en GitHub Pages →](https://TU-USUARIO.github.io/TU-REPOSITORIO/)**
-
----
 
 ## 📋 Contenido
 
